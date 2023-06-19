@@ -1,1 +1,14 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+<title>Seitenname</title>
+</head>
+<body>
+<h1>1 Überschrift</h1>
+<h2>2 Überschrift</h2>
+<p>Text normal</p>
+<i>Text Kursiv</i>
+<b>Fetter Text</b>
+<a href="#">Link</a>
+</body>
+</html>
